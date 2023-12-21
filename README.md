@@ -1,21 +1,14 @@
 # Gaussian Elimination
-
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
 ## Algorithm
 1. Start the Program
-
 2. Use numpy and sys packages
-
 3. Use nested loops to loop through each row and column
-
 4. End the program
-
 ## Program:
 ```
 '''
@@ -50,8 +43,6 @@ for i in range(n):
 
 ## Output:
 ![output](https://github.com/Skathiranand/Gaussian/assets/147141136/ed0923b3-94ea-4231-ae21-7e22d7406617)
-
-
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
